@@ -17,6 +17,10 @@ body {
   color: white;
   margin-top: 20px;
 }
+/* rating area */
+.rating{
+  margin-top: 0;
+}
 .search-field:hover {
   outline: none;
   border: none;
@@ -58,7 +62,7 @@ body {
   height: 150px;
 }
 .cart {
-  width: 300px;
+  width: 350px;
   /* border: 1px solid green; */
   padding: 10px;
   box-shadow: 10px 10px 20px gray;
@@ -94,3 +98,4 @@ body {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+ 
