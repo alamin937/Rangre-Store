@@ -1,6 +1,21 @@
 body {
   overflow-x: hidden;
   font-family: "Montserrat", sans-serif;
+  background-color: black;
+}
+.header-area{
+  font-weight: 700;
+  text-align: center;
+  box-shadow: 10px 10px 40px grey;
+  width: 350px;
+  padding: 10px;
+  /* margin: 0 auto; */
+  margin-top: 15px;
+  border-radius: 10px;
+  margin-left: 600px;
+}
+.color{
+  color: orange;
 }
 .search-field {
   border: none;
